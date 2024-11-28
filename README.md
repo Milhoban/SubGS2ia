@@ -1,5 +1,5 @@
 # SubGS2ia
-##Alunos:
+## Alunos:
 
 - Benjamim Lucas Rodrigues Gonçalo - RM96026 - 3ECR
 - Ingrydh Santos Potter - RM94731 - 3ECA
